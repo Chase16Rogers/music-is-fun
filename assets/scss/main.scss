@@ -15,5 +15,10 @@ main {
   flex-grow: 1;
 }
 
+.display-stick{
+  position: fixed;
+}
 
-
+.max-height{
+  max-height: 90vh;
+}
